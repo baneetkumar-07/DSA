@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/baneetkumar-07/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/baneetkumar-07/DSA/tree/master/0141-linked-list-cycle) |
 ## Math
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/baneetkumar-07/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0704-binary-search](https://github.com/baneetkumar-07/DSA/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/baneetkumar-07/DSA/tree/master/0912-sort-an-array) |
 ## Binary Search
