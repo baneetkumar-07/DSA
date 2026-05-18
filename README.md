@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/baneetkumar-07/DSA/tree/master/0141-linked-list-cycle) |
+| [0707-design-linked-list](https://github.com/baneetkumar-07/DSA/tree/master/0707-design-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -91,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/baneetkumar-07/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/baneetkumar-07/DSA/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
