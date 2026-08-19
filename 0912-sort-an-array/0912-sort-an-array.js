@@ -3,35 +3,32 @@
  * @return {number[]}
  */
 var sortArray = function(nums) {
+
+    if(nums.length <= 1) return nums;
+
     function merge(left, right){
-        let i = 0;
-        let j = 0;
-        let result = [];
-        while(i < left?.length && j < right?.length){
-            if(left[i] < right[j]){
-                result.push(left[i]);
+        let sortedArr = [];
+        let i = 0, j = 0;
+
+        while(i < left.length && j < right.length){
+            if(left[i] <= right[j]){
+                sortedArr.push(left[i]);
                 i++;
             } else {
-                result.push(right[j]);
-                j++
+                sortedArr.push(right[j]);
+                j++;
             }
         }
-        while( i < left?.length){
-            result.push(left[i]);
-            i++;
-        }
-        while( j < right?.length){
-            result.push(right[j]);
-            j++
-        }
-        return result;
+
+        return sortedArr.concat(left.slice(i).concat(right.slice(j)))
     }
-    
-    if(nums.length <= 1) return nums;
-    let mid = Math.floor((nums.length) / 2);
-    let left = sortArray(nums.slice(0,mid))
-    let right = sortArray(nums.slice(mid))
-    return merge(left,right)
-    
+
+
+   
+    let mid = Math.floor(nums.length/2);
+    let left = sortArray(nums.slice(0,mid));
+    let right = sortArray(nums.slice(mid));
+
+    return merge(left, right)
     
 };
