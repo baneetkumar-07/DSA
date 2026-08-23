@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/baneetkumar-07/DSA/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/baneetkumar-07/DSA/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/baneetkumar-07/DSA/tree/master/0912-sort-an-array) |
+| [2942-find-words-containing-character](https://github.com/baneetkumar-07/DSA/tree/master/2942-find-words-containing-character) |
 ## Binary Search
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/baneetkumar-07/DSA/tree/master/0344-reverse-string) |
+| [2942-find-words-containing-character](https://github.com/baneetkumar-07/DSA/tree/master/2942-find-words-containing-character) |
 ## Dynamic Programming
 |  |
 | ------- |
