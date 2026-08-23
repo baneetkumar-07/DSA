@@ -104,12 +104,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/baneetkumar-07/DSA/tree/master/0912-sort-an-array) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/baneetkumar-07/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/baneetkumar-07/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/baneetkumar-07/DSA/tree/master/0344-reverse-string) |
 | [0771-jewels-and-stones](https://github.com/baneetkumar-07/DSA/tree/master/0771-jewels-and-stones) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/baneetkumar-07/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2942-find-words-containing-character](https://github.com/baneetkumar-07/DSA/tree/master/2942-find-words-containing-character) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/baneetkumar-07/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
@@ -124,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/baneetkumar-07/DSA/tree/master/0141-linked-list-cycle) |
+## Greedy
+|  |
+| ------- |
+| [1221-split-a-string-in-balanced-strings](https://github.com/baneetkumar-07/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 <!---LeetCode Topics End-->
