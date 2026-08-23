@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/baneetkumar-07/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/baneetkumar-07/DSA/tree/master/0268-missing-number) |
 | [0771-jewels-and-stones](https://github.com/baneetkumar-07/DSA/tree/master/0771-jewels-and-stones) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/baneetkumar-07/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Linked List
 |  |
 | ------- |
@@ -103,12 +104,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/baneetkumar-07/DSA/tree/master/0912-sort-an-array) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/baneetkumar-07/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/baneetkumar-07/DSA/tree/master/0344-reverse-string) |
 | [0771-jewels-and-stones](https://github.com/baneetkumar-07/DSA/tree/master/0771-jewels-and-stones) |
 | [2942-find-words-containing-character](https://github.com/baneetkumar-07/DSA/tree/master/2942-find-words-containing-character) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/baneetkumar-07/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
 |  |
 | ------- |
