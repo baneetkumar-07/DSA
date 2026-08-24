@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/baneetkumar-07/DSA/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/baneetkumar-07/DSA/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/baneetkumar-07/DSA/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/baneetkumar-07/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/baneetkumar-07/DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/baneetkumar-07/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/baneetkumar-07/DSA/tree/master/0283-move-zeroes) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/baneetkumar-07/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/baneetkumar-07/DSA/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/baneetkumar-07/DSA/tree/master/0541-reverse-string-ii) |
 | [0771-jewels-and-stones](https://github.com/baneetkumar-07/DSA/tree/master/0771-jewels-and-stones) |
