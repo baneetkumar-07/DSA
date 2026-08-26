@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/baneetkumar-07/DSA/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/baneetkumar-07/DSA/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/baneetkumar-07/DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/baneetkumar-07/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/baneetkumar-07/DSA/tree/master/0268-missing-number) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/baneetkumar-07/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/baneetkumar-07/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/baneetkumar-07/DSA/tree/master/0027-remove-element) |
+| [0049-group-anagrams](https://github.com/baneetkumar-07/DSA/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/baneetkumar-07/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/baneetkumar-07/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/baneetkumar-07/DSA/tree/master/0136-single-number) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/baneetkumar-07/DSA/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/baneetkumar-07/DSA/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/baneetkumar-07/DSA/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/baneetkumar-07/DSA/tree/master/0912-sort-an-array) |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/baneetkumar-07/DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/baneetkumar-07/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/baneetkumar-07/DSA/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/baneetkumar-07/DSA/tree/master/0541-reverse-string-ii) |
